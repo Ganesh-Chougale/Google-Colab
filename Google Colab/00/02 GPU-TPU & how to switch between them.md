@@ -30,8 +30,8 @@ Think of CPU as a **sharp worker doing tasks one by one**, GPU as a **huge crowd
 **tiny code** that compares CPU vs GPU speed in Colab.  
 first change runtime type to available GPU from CPU  
 ##### Preview:  
-![](../z_images/001/01.png)  
-![](../z_images/001/02.png)  
+![](../../z_images/001/01.png)  
+![](../../z_images/001/02.png)  
 ```python
 import torch
 import time

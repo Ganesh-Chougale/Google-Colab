@@ -1,0 +1,1 @@
+lets do mini project in colab. that will teach me how we do drive + GitHub persistent workspace. codebase & files too. first give me options to choose with its discriptions

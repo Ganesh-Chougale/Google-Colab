@@ -18,7 +18,7 @@ plt.axis('off')  # hide axes
 plt.show();
 ```  
 ##### Preview:  
-![](../../z_images/001/09.png)  
+![](../../../../z_images/001/09.png)  
 ### Image upload & tabular data
 ```python
 from google.colab import files
@@ -57,7 +57,7 @@ df = pd.DataFrame(info)
 df
 ```  
 ##### Preview:  
-![](../../z_images/001/10.png)  
+![](../../../../z_images/001/10.png)  
 ### Changing image & download it.  
 ```python
 from google.colab import files
@@ -114,4 +114,4 @@ else:
     display(button, output)
 ```  
 ##### Preview:  
-![](../../z_images/002/01.png)  
+![](../../../../z_images/002/01.png)  
